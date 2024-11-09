@@ -61,11 +61,3 @@ This project is a sleek and modern landing page template crafted with Next.js an
 
 4. **Images:**
     - Replace placeholder images in the `public/images` directory with your own.
-
-## Contributing
-
-We welcome contributions! If you'd like to contribute to the Next.js Tailwind Landing Page, please check our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
